@@ -2,7 +2,7 @@
 
 ##
 
-<p align="left"> -🔭 I’m working as HTML, CSS e JavaScript <br>- 📚 I'm currently lear React<br>- ⚡ In my free time I </p>
+<p align="left"> -🔭 I’m working as HTML, CSS e JavaScript <br>- 📚 I'm currently lear React<br> </p>
 
 ##
 
